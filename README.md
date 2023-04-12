@@ -5,9 +5,9 @@ This is a Python script that displays the daily, weekly, or monthly horoscope, a
 ## Requirements
 The following Python libraries are required to run this script:
 
-requests
-PySimpleGUI
-BeautifulSoup
+- requests
+- PySimpleGUI
+- BeautifulSoup
 You can install them using pip:
 
 Copy code
