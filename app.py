@@ -14,7 +14,6 @@ layout = [
 window = sg.Window('Horoscope',layout)
 
 def horoscope(sign, date):
-    print(date)
     match sign:
         case "Aries":
             sign = '1'
