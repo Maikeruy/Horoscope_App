@@ -10,7 +10,7 @@ The following Python libraries are required to run this script:
 - BeautifulSoup
 
 ## Usage
-To use this script, simply run the horoscope.py file in your terminal or IDE. A GUI window will appear, allowing you to choose the zodiac sign and the type of horoscope to display (daily, weekly, or monthly). After selecting the options, click the "Try" button to fetch and display the horoscope information.
+To use this script, simply run the app.py file in your terminal or IDE. A GUI window will appear, allowing you to choose the zodiac sign and the type of horoscope to display (daily, weekly, or monthly). After selecting the options, click the "Try" button to fetch and display the horoscope information.
 
 ## Contributing
 This script was created as a learning exercise and may contain errors or suboptimal code. If you have suggestions for improvement, feel free to fork the repository and submit a pull request.
