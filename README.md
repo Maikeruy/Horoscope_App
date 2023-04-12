@@ -8,6 +8,7 @@ The following Python libraries are required to run this script:
 - requests
 - PySimpleGUI
 - BeautifulSoup
+
 You can install them using pip:
 
 Copy code
